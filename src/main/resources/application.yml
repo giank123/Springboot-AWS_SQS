@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: AKIATTKMZRDBBPYELA77
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/247658547394/queue-youtube
